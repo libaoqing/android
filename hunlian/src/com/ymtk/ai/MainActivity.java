@@ -20,4 +20,8 @@ public class MainActivity extends Activity {
         return true;
     }
     
+    public static void main(String[] args) {
+		System.out.println("≤‚ ‘∑÷÷ß");
+	}
+    
 }
